@@ -5,3 +5,4 @@
 - Follow up with Anthony
 - Practice some Next.js
 - Practice the Roman Numerals Leetcode Problem
+- Apply for 2 SWE jobs
