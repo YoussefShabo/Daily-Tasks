@@ -7,3 +7,7 @@ Monday, July 3rd:
 -Help Leticia with JS project:        21:00
 
 
+// To Do:
+-Introduction Email to Anthony,
+-Next.js Project and learning.
+-20 min read Cracking the Coding Interview
