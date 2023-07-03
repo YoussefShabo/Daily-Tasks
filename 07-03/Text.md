@@ -11,3 +11,6 @@ Monday, July 3rd:
 -Introduction Email to Anthony,
 -Next.js Project and learning.
 -20 min read Cracking the Coding Interview
+
+-Add TOP to resume
+-reach out to 3 people for informational interviews GA
