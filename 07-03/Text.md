@@ -14,3 +14,7 @@ Monday, July 3rd:
 
 -Add TOP to resume
 -reach out to 3 people for informational interviews GA
+
+-reach out to Anya and Saeke?
+-budgeting
+-check dental smiles balance
