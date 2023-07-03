@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Switch mode Test</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 20%;
+            background-color: navajowhite;
+            color: darkslategray;
+            transition: 0.5s;
+        }
+
+        body.dark-mode {
+            background-color: darkslategray;
+            color: bisque;
+            transition: 0.5s;
+        }
+
+        button {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            width: 100px;
+            height: 100px;
+            border-radius: 50px;
+            background-color: darkslategray;
+            color: bisque;
+            border: 1px solid bisque;
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+        <button id="mode-switch">Click me!</button>
+        <h1>This is just a test!</h1>
+    </center>
+</body>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        document.getElementById("mode-switch").addEventListener("click", function () {
+            document.body.classList.toggle("dark-mode")
+        })
+    })
+</script>
+
+</html>
