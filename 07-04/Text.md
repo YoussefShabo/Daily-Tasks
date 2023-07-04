@@ -1,7 +1,7 @@
 Monday, July 4th:
 
 // Calendar
-Apply for TWC
+Apply for TWC [Done]
 
 // To Do:
 
