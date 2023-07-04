@@ -11,8 +11,9 @@ Apply for TWC
 -Call Sara to start planning the trip
 
 // From before
--reach out to 3 people for informational interviews GA
 
+-reach out to 2 people for informational interviews GA
 -reach out to Anya and Saeke?
 -budgeting
 -check dental smiles balance
+-add flash cards app to portfolio
