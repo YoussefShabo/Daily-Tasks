@@ -8,7 +8,7 @@ Apply for TWC [Done]
 -research freelance jobs
 -add photos to stock images
 -Next.js Project and learning.
--20 min read Cracking the Coding Interview []
+-20 min read Cracking the Coding Interview [Done]
 -Leetcode problem
 -DSA Class progress
 -Call Sara to start planning the trip
