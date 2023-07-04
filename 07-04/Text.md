@@ -4,6 +4,9 @@ Monday, July 4th:
 Apply for TWC
 
 // To Do:
+
+-research freelance jobs
+-add photos to stock images
 -Next.js Project and learning.
 -20 min read Cracking the Coding Interview []
 -Leetcode problem
