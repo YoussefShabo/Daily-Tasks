@@ -1,0 +1,16 @@
+Monday, July 4th:
+
+// Calendar
+
+// To Do:
+-Next.js Project and learning.
+-20 min read Cracking the Coding Interview []
+-Leetcode problem
+-DSA Class progress
+
+// From before
+-reach out to 3 people for informational interviews GA
+
+-reach out to Anya and Saeke?
+-budgeting
+-check dental smiles balance
