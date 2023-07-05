@@ -1,3 +1,6 @@
+import math
+
+
 STUDENT_COUNT = 1000
 rating = 4.99
 is_published = True
@@ -15,8 +18,23 @@ full = f"{first} {last}"
 # print(full)
 
 
-course = "   Python Programming"
-print(course.upper())
-print(course.lower())
-print(course.title())
-print(course.strip())
+course = "  Python Programming"
+# print(course.upper())
+# print(course.lower())
+# print(course.title())
+# print(course.strip())
+# print(course.lstrip())
+# print(course.rstrip())
+# print(course.find("Pro"))
+# print(course.replace("P", "J"))
+# print("Pro" in course)
+# print("Pro" not in course)
+
+
+# print(round(2.8))
+# print(abs(-2.8))
+# print(math.ceil(2.2))
+
+x = input("x: ")
+y = int(x) + 1
+print(f"x: {x}, y: {y}")
