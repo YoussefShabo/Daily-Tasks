@@ -12,6 +12,7 @@ Fitness bootcamp []
 -Leetcode problem
 -DSA Class progress
 -Call Sara to start planning the trip
+-Practice HackerRank []
 
 // From before
 
