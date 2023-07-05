@@ -1,11 +1,10 @@
-Monday, July 5th:
+Monday, July 6th:
 
 // Calendar
-Fitness bootcamp []
 
 // To Do:
 
--Start Coding with Mosh Python [Done]
+-Coding with Mosh continue with Python (Control Flow)
 -research freelance jobs
 -add photos to stock images
 -Next.js Project and learning.
@@ -13,8 +12,7 @@ Fitness bootcamp []
 -Leetcode problem
 -DSA Class progress
 -Call Sara to start planning the trip
--Call Mustafa for Tattoo ideas
--Practice HackerRank [Done]
+-Practice HackerRank []
 
 // From before
 
