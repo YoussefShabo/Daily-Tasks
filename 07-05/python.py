@@ -35,6 +35,11 @@ course = "  Python Programming"
 # print(abs(-2.8))
 # print(math.ceil(2.2))
 
-x = input("x: ")
-y = int(x) + 1
-print(f"x: {x}, y: {y}")
+# x = input("x: ")
+# y = int(x) + 1
+# print(f"x: {x}, y: {y}")
+
+print(bool(0))
+print(bool(1))
+print(bool("False"))
+print(bool(""))
