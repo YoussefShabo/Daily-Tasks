@@ -1,6 +1,8 @@
 Monday, July 6th:
 
 // Calendar
+Meet with Beth and Brian [Done]
+TOP SEI meeting []
 
 // To Do:
 
@@ -9,10 +11,12 @@ Monday, July 6th:
 -add photos to stock images
 -Next.js Project and learning.
 -20 min read Cracking the Coding Interview []
--Leetcode problem
+-Leetcode problem [Done]
 -DSA Class progress
 -Call Sara to start planning the trip
 -Practice HackerRank []
+-Pull updates from the SEI Project []
+-Pick up TOP SEI tasks from Trello board []
 
 // From before
 
