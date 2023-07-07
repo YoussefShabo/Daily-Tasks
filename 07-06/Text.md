@@ -2,7 +2,7 @@ Monday, July 6th:
 
 // Calendar
 Meet with Beth and Brian [Done]
-TOP SEI meeting []
+TOP SEI meeting [Done]
 
 // To Do:
 
@@ -15,8 +15,8 @@ TOP SEI meeting []
 -DSA Class progress
 -Call Sara to start planning the trip
 -Practice HackerRank []
--Pull updates from the SEI Project []
--Pick up TOP SEI tasks from Trello board []
+-Pull updates from the SEI Project [Done]
+-Pick up TOP SEI tasks from Trello board [Done]
 
 // From before
 
