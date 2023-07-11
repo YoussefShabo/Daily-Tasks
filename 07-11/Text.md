@@ -12,7 +12,7 @@ Tuesday, July 11th:
 
 //Working
 
--Apply to 3 Jobs[0/3]
+-Apply to 3 Jobs[4/4]
 -research freelance jobs
 -add photos to stock images [5/5]
 -Next.js Project and learning.
