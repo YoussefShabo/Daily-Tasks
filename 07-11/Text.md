@@ -9,6 +9,7 @@ Tuesday, July 11th:
 -20 min read Cracking the Coding Interview []
 -Leetcode problem []
 -Practice HackerRank []
+-Practice CodeWars [Done]
 
 //Working
 
