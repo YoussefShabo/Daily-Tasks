@@ -35,3 +35,5 @@ function noBoringZeros(n) {
 
   return result;
 }
+
+console.log(noBoringZeros(19500000000));
