@@ -15,6 +15,7 @@ Thursday, July 13th:
 
 //Working
 
+-Follow up with Anthony [Done]
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
 -add photos to stock images [0/5]
