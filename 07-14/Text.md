@@ -14,7 +14,7 @@ Friday, July 14th:
 //Working
 
 -Follow up with Anthony [Done]
--Apply to 3 Jobs[0/3]
+-Apply to 3 Jobs[3/3]
 -research freelance jobs
 -add photos to stock images [0/5]
 -Next.js Project and learning.
