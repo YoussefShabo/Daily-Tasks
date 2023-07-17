@@ -3,7 +3,7 @@ Monday, July 17th:
 // Calendar
 
 Fitness bootcamp @ 7:00 []
-TOP team meeting @ 8:30 []
+TOP team meeting @ 8:30 [Done]
 
 //Learning
 
@@ -16,8 +16,7 @@ TOP team meeting @ 8:30 []
 
 //Working
 
--Follow up with Anthony [Done]
--Apply to 3 Jobs[3/3]
+-Apply to 3 Jobs[1/3]
 -research freelance jobs
 -add photos to stock images [0/5]
 -Next.js Project and learning.
@@ -26,6 +25,6 @@ TOP team meeting @ 8:30 []
 
 -reach out to 2 people for informational interviews GA
 -reach out to Anya and Saeke?
--add flash cards app to portfolio
--add Movie Library to Portfolio
+-add flash cards app to portfolio [Done]
+-add Movie Library to Portfolio [Done]
 -create and deploy a react app
