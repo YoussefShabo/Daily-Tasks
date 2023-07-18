@@ -15,7 +15,7 @@ Apply for TWC [Done]
 
 //Working
 
--Apply to 3 Jobs[1/3]
+-Apply to 3 Jobs[0/3]
 -research freelance jobs
 -add photos to stock images [0/5]
 -Next.js Project and learning.
@@ -24,6 +24,4 @@ Apply for TWC [Done]
 
 -reach out to 2 people for informational interviews GA
 -reach out to Anya and Saeke?
--add flash cards app to portfolio [Done]
--add Movie Library to Portfolio [Done]
 -create and deploy a react app
