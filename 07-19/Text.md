@@ -13,7 +13,7 @@ Wednesday, July 19th:
 
 //Working
 
--Apply to 3 Jobs[2/3]
+-Apply to 3 Jobs[3/3]
 -research freelance jobs
 -add photos to stock images [13/5]
 -Next.js Project and learning.
