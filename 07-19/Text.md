@@ -2,7 +2,6 @@ Wednesday, July 19th:
 
 // Calendar
 
-
 //Learning
 
 -Coding with Mosh continue with Python (Control Flow)
@@ -14,7 +13,7 @@ Wednesday, July 19th:
 
 //Working
 
--Apply to 3 Jobs[0/3]
+-Apply to 3 Jobs[2/3]
 -research freelance jobs
 -add photos to stock images [0/5]
 -Next.js Project and learning.
