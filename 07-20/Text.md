@@ -11,11 +11,11 @@ Google SWE Info Session @ 8:00 []
 -20 min read Cracking the Coding Interview []
 -Leetcode problem []
 -Practice HackerRank []
--Practice CodeWars []
+-Practice CodeWars [Done]
 
 //Working
 
--Apply to 3 Jobs[0/3]
+-Apply to 3 Jobs[3/3]
 -research freelance jobs
 -add photos to stock images [0/5]
 -Next.js Project and learning.
