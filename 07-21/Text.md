@@ -6,6 +6,7 @@ TOP Team meeting @ 8:00 []
 
 //Learning
 
+-Research the Camera thing for TOP []
 -Coding with Mosh continue with Python (Control Flow)
 -DSA Class progress
 -20 min read Cracking the Coding Interview []
