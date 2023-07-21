@@ -1,8 +1,8 @@
 Thursday, July 20th:
 
 // Calendar
-Meeting with Beth and Brian @ 3:30 [Done]
-Google SWE Info Session @ 8:00 [Done]
+Meeting with Beth and Brian @ 3:30 []
+Google SWE Info Session @ 8:00 []
 
 //Learning
 
