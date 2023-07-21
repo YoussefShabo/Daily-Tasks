@@ -1,8 +1,8 @@
-Thursday, July 20th:
+Friday, July 21st:
 
 // Calendar
-Meeting with Beth and Brian @ 3:30 []
-Google SWE Info Session @ 8:00 []
+
+TOP Team meeting @ 8:00 []
 
 //Learning
 
@@ -11,11 +11,11 @@ Google SWE Info Session @ 8:00 []
 -20 min read Cracking the Coding Interview []
 -Leetcode problem []
 -Practice HackerRank []
--Practice CodeWars [Done]
+-Practice CodeWars []
 
 //Working
 
--Apply to 3 Jobs[3/3]
+-Apply to 3 Jobs[0/3]
 -research freelance jobs
 -add photos to stock images [0/5]
 -Next.js Project and learning.
