@@ -2,7 +2,9 @@ Monday, July 24th:
 
 // Calendar
 
-TOP Team meeting @ 8:00 []
+Meeting with Beth @ 3:00 []
+Fitness Bootcamp @ 6:30 []
+TOP Team Meeting @ 8:30 []
 
 //Learning
 
