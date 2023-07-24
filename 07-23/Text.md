@@ -2,6 +2,8 @@ Friday, July 21st:
 
 // Calendar
 
+TOP Team meeting @ 8:00 []
+
 //Learning
 
 -Research the Camera thing for TOP []

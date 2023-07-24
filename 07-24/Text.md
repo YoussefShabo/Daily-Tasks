@@ -1,6 +1,8 @@
-Friday, July 21st:
+Monday, July 24th:
 
 // Calendar
+
+TOP Team meeting @ 8:00 []
 
 //Learning
 
