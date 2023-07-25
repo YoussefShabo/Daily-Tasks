@@ -7,6 +7,7 @@ Call with Zachary @ 4:00[Done]
 
 //Learning
 
+-Start a new Ruby Project []
 -Research the Camera thing for TOP []
 -Coding with Mosh continue with Python (Control Flow)
 -DSA Class progress
@@ -17,7 +18,7 @@ Call with Zachary @ 4:00[Done]
 
 //Working
 
--Apply to 3 Jobs[2/3]
+-Apply to 3 Jobs[0/3]
 -research freelance jobs
 -add photos to stock images [0/5]
 -Next.js Project and learning.
