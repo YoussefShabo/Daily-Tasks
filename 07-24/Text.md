@@ -3,8 +3,8 @@ Monday, July 24th:
 // Calendar
 
 Meeting with Beth @ 3:00 []
-Fitness Bootcamp @ 6:30 []
-TOP Team Meeting @ 8:30 []
+Fitness Bootcamp @ 6:30 [Done]
+TOP Team Meeting @ 8:30 [Done]
 
 //Learning
 
@@ -18,7 +18,7 @@ TOP Team Meeting @ 8:30 []
 
 //Working
 
--Apply to 3 Jobs[0/3]
+-Apply to 3 Jobs[2/3]
 -research freelance jobs
 -add photos to stock images [0/5]
 -Next.js Project and learning.
