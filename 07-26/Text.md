@@ -2,9 +2,9 @@ Wednesday, July 26th:
 
 // Calendar
 
-Tattoo Appt []
+Tattoo Appt [Done]
 Fitness Class []
-TOP Meeting Presentation []
+TOP Meeting Presentation [Done]
 
 //Learning
 
