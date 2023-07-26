@@ -19,6 +19,7 @@ TOP Meeting Presentation [Done]
 
 //Working
 
+-update Portfolio other Projects logos []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
 -add photos to stock images [0/5]
