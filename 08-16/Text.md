@@ -2,10 +2,6 @@ Wednesday, August 16th:
 
 // Calendar
 
-Tattoo Appt [Done]
-Fitness Class []
-TOP Meeting Presentation [Done]
-
 //Learning
 
 -Start a new Ruby Project []
