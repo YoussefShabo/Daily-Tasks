@@ -7,7 +7,7 @@ Wednesday, August 16th:
 //Learning
 
 -Start a new Ruby Project []
--Research the Camera thing for TOP []
+-Pick a Trello Card for TOP [Done]
 -Coding with Mosh continue with Python (Control Flow)
 -DSA Class progress
 -20 min read Cracking the Coding Interview []
@@ -17,7 +17,7 @@ Wednesday, August 16th:
 
 //Working
 
--update Portfolio other Projects logos []
+-update Portfolio other Projects logos for mobile []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
 -add photos to stock images [0/5]
