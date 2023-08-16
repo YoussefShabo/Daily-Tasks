@@ -2,6 +2,8 @@ Wednesday, August 16th:
 
 // Calendar
 
+-Call with Ricky Holm from CM&D (Chocolate Milk & Dounut) @ 8:00pm []
+
 //Learning
 
 -Start a new Ruby Project []
