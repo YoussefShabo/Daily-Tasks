@@ -2,6 +2,10 @@ Wednesday, August 16th:
 
 // Calendar
 
+-Follow up with Emma Womersley from ATG []
+-Follow up with Eric Garcia from Westerm Midstream []
+-Follow up with Modelical []
+
 
 //Learning
 
