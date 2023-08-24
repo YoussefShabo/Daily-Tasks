@@ -10,7 +10,7 @@ Wednesday, August 16th:
     -Get Vision imaging done []
     -Purchase new glasses and perscription sunglasses
 -Get Uber account up and running []
-    -Get Insurance ID []
+    -Get Insurance ID [Done]
     -Get new registration sticker []
 
 //Learning
