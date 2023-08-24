@@ -9,9 +9,9 @@ Wednesday, August 16th:
     -Get Dental clean up appt[]
     -Get Vision imaging done []
     -Purchase new glasses and perscription sunglasses
--Get Uber account up and running []
+-Get Uber account up and running [Done]
     -Get Insurance ID [Done]
-    -Get new registration sticker []
+    -Get new registration sticker [Done]
 
 //Learning
 
