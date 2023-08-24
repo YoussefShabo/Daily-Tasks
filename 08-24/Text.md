@@ -15,6 +15,9 @@ Wednesday, August 16th:
 
 //Learning
 
+-Research MS Power Platform []
+-Research .NET []
+-Research MS SQL server []
 -Start a new Ruby Project []
 -Pick a Trello Card for TOP []
 -Coding with Mosh continue with Python (Control Flow)
