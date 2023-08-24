@@ -2,8 +2,8 @@ Wednesday, August 16th:
 
 // Calendar
 
--Follow up with Emma Womersley from ATG []
--Follow up with Eric Garcia from Westerm Midstream []
+-Follow up with Emma Womersley from ATG [Done]
+-Follow up with Eric Garcia from Westerm Midstream [Done]
 -Follow up with Modelical []
 -Request a new HSA Card [Done]
     -Get Dental clean up appt[]
@@ -30,7 +30,7 @@ Wednesday, August 16th:
 //Working
 
 -update Portfolio other Projects logos for mobile []
--Apply to 3 Jobs[0/3]
+-Apply to 3 Jobs[2/3]
 -research freelance jobs
 -add photos to stock images [0/5]
 -Next.js Project and learning.
