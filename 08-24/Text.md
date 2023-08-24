@@ -5,7 +5,13 @@ Wednesday, August 16th:
 -Follow up with Emma Womersley from ATG []
 -Follow up with Eric Garcia from Westerm Midstream []
 -Follow up with Modelical []
-
+-Request a new HSA Card [Done]
+    -Get Dental clean up appt[]
+    -Get Vision imaging done []
+    -Purchase new glasses and perscription sunglasses
+-Get Uber account up and running []
+    -Get Insurance ID []
+    -Get new registration sticker []
 
 //Learning
 
