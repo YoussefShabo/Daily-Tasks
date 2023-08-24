@@ -2,12 +2,11 @@ Wednesday, August 16th:
 
 // Calendar
 
--Call with Ricky Holm from CM&D (Chocolate Milk & Dounut) @ 8:00pm []
 
 //Learning
 
 -Start a new Ruby Project []
--Pick a Trello Card for TOP [Done]
+-Pick a Trello Card for TOP []
 -Coding with Mosh continue with Python (Control Flow)
 -DSA Class progress
 -20 min read Cracking the Coding Interview []
