@@ -4,10 +4,11 @@ Wednesday, August 16th:
 
 
 -Call with Rachel Walker [Done]
--Follow up with Modelical []
-    -Get Dental clean up appt[]
-    -Get Vision imaging done []
-    -Purchase new glasses and perscription sunglasses []
+-Get contract/ bill template for Ricky and Respond TODAY []
+-Follow up with Modelical [Monday]
+    -Get Dental clean up appt[Waiting on HSA card]
+    -Get Vision imaging done [Waiting on HSA card]
+    -Purchase new glasses and perscription sunglasses [Waiting on HSA card]
 
 //Learning
 
@@ -15,7 +16,6 @@ Wednesday, August 16th:
 -Research .NET []
 -Research MS SQL server []
 -Start a new Ruby Project []
--Pick a Trello Card for TOP []
 -Coding with Mosh continue with Python (Control Flow)
 -DSA Class progress
 -20 min read Cracking the Coding Interview []
@@ -25,8 +25,9 @@ Wednesday, August 16th:
 
 //Working
 
+-First Uber drive [82/$100] 7 - 10 am
 -update Portfolio other Projects logos for mobile []
--Apply to 3 Jobs[3/3]
+-Apply to 3 Jobs [0/3]
 -research freelance jobs
 -add photos to stock images [0/5]
 -Next.js Project and learning.
