@@ -30,7 +30,7 @@ Wednesday, August 16th:
 //Working
 
 -update Portfolio other Projects logos for mobile []
--Apply to 3 Jobs[2/3]
+-Apply to 3 Jobs[3/3]
 -research freelance jobs
 -add photos to stock images [0/5]
 -Next.js Project and learning.
