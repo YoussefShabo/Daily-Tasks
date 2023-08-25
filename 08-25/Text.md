@@ -30,7 +30,6 @@ Wednesday, August 16th:
 -Apply to 3 Jobs [0/3]
 -research freelance jobs
 -add photos to stock images [0/5]
--Next.js Project and learning.
 
 // From before
 
