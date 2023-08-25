@@ -4,7 +4,7 @@ Wednesday, August 16th:
 
 
 -Call with Rachel Walker [Done]
--Get contract/ bill template for Ricky and Respond TODAY []
+-Get contract/ bill template for Ricky and Respond TODAY [Done]
 -Follow up with Modelical [Monday]
     -Get Dental clean up appt[Waiting on HSA card]
     -Get Vision imaging done [Waiting on HSA card]
