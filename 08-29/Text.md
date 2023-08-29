@@ -1,4 +1,4 @@
-Wednesday, August 16th:
+Wednesday, August 29th:
 
 // Calendar
 
