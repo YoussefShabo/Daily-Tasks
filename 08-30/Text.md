@@ -3,6 +3,7 @@ Wednesday, August 29th:
 // Calendar
 
 -Follow up with Francisco and Modelical [Done]
+-Cancel Amazon Prime [Done]
 -Fall Cohort Feedback Session with Useful School  @ 18:00 []
 -Pick up Laila from Airport 2 22:00 []
 
