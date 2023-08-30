@@ -4,9 +4,11 @@ Wednesday, August 29th:
 
 -Follow up with Francisco and Modelical [Done]
 -Fall Cohort Feedback Session with Useful School  @ 18:00 []
+-Pick up Laila from Airport 2 22:00 []
 
 //Learning
 
+-Work on React Native Project []
 -Start a new Ruby Project []
 -Coding with Mosh continue with Python (Control Flow)
 -DSA Class progress
