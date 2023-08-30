@@ -2,12 +2,12 @@ Wednesday, August 29th:
 
 // Calendar
 
--Call with Ricky Holm from CM&D (Chocolate Milk & Dounut) @ 8:00pm []
+-Follow up with Francisco and Modelical [Done]
+-Fall Cohort Feedback Session with Useful School  @ 18:00 []
 
 //Learning
 
 -Start a new Ruby Project []
--Pick a Trello Card for TOP [Done]
 -Coding with Mosh continue with Python (Control Flow)
 -DSA Class progress
 -20 min read Cracking the Coding Interview []
@@ -17,6 +17,7 @@ Wednesday, August 29th:
 
 //Working
 
+-Morning Uber drive [84.90 /$100] 7 - 11 am
 -update Portfolio other Projects logos for mobile []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
