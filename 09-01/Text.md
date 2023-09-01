@@ -9,6 +9,7 @@ Friday, September 1st:
 -Notebooks photoshoot []
 -update notebooks design []
 -plan speaker design scheme [] 
+-add splash and icon to snake game []
 
 //Learning
 
