@@ -23,7 +23,7 @@ Friday, September 1st:
 
 //Working
 
--Morning Uber drive [49/$100] 7 - 11 am
+-Morning Uber drive [65/$100] 7 - 10 am
 -update Portfolio other Projects logos for mobile []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
