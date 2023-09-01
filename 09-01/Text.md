@@ -3,8 +3,8 @@ Friday, September 1st:
 // Calendar
 
 -Dinner at Rony's []
--Respond to Eric's email []
--send email to fb person []
+-Respond to Eric's email [Done]
+-send email to fb person [Done]
 -get Photography studio kit from rony []
 -Notebooks photoshoot []
 -update notebooks design []
