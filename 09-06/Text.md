@@ -8,7 +8,7 @@ Friday, September 1st:
 -start working on CM&D project []
 -start researching Microsoft Power Platforms []
 -Pay toll [Done]
--Schedule car maintenance []
+-Schedule car maintenance [Done]
 -schedule dental cleaning [Done]
 
 -Notebooks photoshoot []
@@ -18,7 +18,6 @@ Friday, September 1st:
 
 //Learning
 
--start researching Microsoft PwerPlatforms[]
 -Start a new Ruby Project []
 -Coding with Mosh continue with Python (Control Flow)
 -DSA Class progress
@@ -39,5 +38,5 @@ Friday, September 1st:
 // From before
 
 -reach out to 2 people for informational interviews GA
--reach out to Anya and Saeke?
+-reach out to Anya?
 -create and deploy a react app
