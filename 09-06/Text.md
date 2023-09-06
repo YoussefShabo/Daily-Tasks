@@ -2,10 +2,15 @@ Friday, September 1st:
 
 // Calendar
 
--Dinner at Rony's []
--Respond to Eric's email [Done]
--send email to fb person [Done]
--get Photography studio kit from rony []
+
+-Meal prep for Ben and Maria []
+-Reply to LinkedIn messages []
+-start working on CM&D project []
+-start researching Microsoft Power Platforms []
+-Pay toll []
+-Schedule car maintenance []
+-schedule dental cleaning []
+
 -Notebooks photoshoot []
 -update notebooks design []
 -plan speaker design scheme [] 
@@ -24,7 +29,7 @@ Friday, September 1st:
 
 //Working
 
--Morning Uber drive [65/$100] 7 - 10 am
+-Morning Uber drive [85/$100] 7 - 10 am
 -update Portfolio other Projects logos for mobile []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
