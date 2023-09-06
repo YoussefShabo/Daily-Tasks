@@ -7,9 +7,9 @@ Friday, September 1st:
 -Reply to LinkedIn messages []
 -start working on CM&D project []
 -start researching Microsoft Power Platforms []
--Pay toll []
+-Pay toll [Done]
 -Schedule car maintenance []
--schedule dental cleaning []
+-schedule dental cleaning [Done]
 
 -Notebooks photoshoot []
 -update notebooks design []
