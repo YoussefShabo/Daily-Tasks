@@ -5,6 +5,7 @@ Thursday, September 7th:
 -respond to Ricky about CM&D []
 -start working on CM&D project []
 -Prep for Tomorrows interview []
+-prep for call & find 3 relevant jobs to Ali [Done]
 -Phoe call with Ali Makyia @ 14:00 []
 -Respond to emails and messages [Done]
 
@@ -26,7 +27,7 @@ Thursday, September 7th:
 
 //Working
 
--Morning Uber drive [80/$100] 7 - 10 am
+-Morning Uber drive [85/$100] 7 - 10 am
 -update Portfolio other Projects logos for mobile []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
