@@ -4,7 +4,7 @@ Friday, September 1st:
 
 
 -Meal prep for Ben and Maria []
--Reply to LinkedIn messages []
+-Reply to LinkedIn and email messages []
 -start working on CM&D project []
 -start researching Microsoft Power Platforms []
 -Pay toll [Done]
