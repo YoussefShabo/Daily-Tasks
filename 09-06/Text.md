@@ -2,14 +2,8 @@ Friday, September 1st:
 
 // Calendar
 
-<<<<<<< HEAD
-
--Meal prep for Ben and Maria []
--Reply to LinkedIn and email messages []
-=======
 -Meal prep for Ben and Maria [Done]
 -Reply to LinkedIn messages [Done]
->>>>>>> fc944984c1a96742c6638b297530c4e749c7e00c
 -start working on CM&D project []
 -start researching Microsoft Power Platforms []
 -Pay toll [Done]
