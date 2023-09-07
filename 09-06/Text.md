@@ -2,9 +2,8 @@ Friday, September 1st:
 
 // Calendar
 
-
--Meal prep for Ben and Maria []
--Reply to LinkedIn messages []
+-Meal prep for Ben and Maria [Done]
+-Reply to LinkedIn messages [Done]
 -start working on CM&D project []
 -start researching Microsoft Power Platforms []
 -Pay toll [Done]
@@ -13,7 +12,7 @@ Friday, September 1st:
 
 -Notebooks photoshoot []
 -update notebooks design []
--plan speaker design scheme [] 
+-plan speaker design scheme []
 -add splash and icon to snake game []
 
 //Learning
