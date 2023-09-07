@@ -2,7 +2,7 @@ Thursday, September 7th:
 
 // Calendar
 
--respond to Ricky about CM&D []
+-respond to Ricky about CM&D [Done]
 -start working on CM&D project []
 -Prep for Tomorrows interview []
 -prep for call & find 3 relevant jobs to Ali [Done]
