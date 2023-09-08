@@ -2,6 +2,7 @@ Friday, September 8th:
 
 // Calendar
 
+-Interview with Eic Garcia for Western Midstream at 11:30 [Done]
 -start working on CM&D project []
 -Notebooks photoshoot []
 -update notebooks design []
