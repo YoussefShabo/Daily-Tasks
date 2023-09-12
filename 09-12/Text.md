@@ -2,12 +2,8 @@ Monday, September 11th:
 
 // Calendar
 
--meet up with Leticia @ 20:00 []
--start working on CM&D project [Done]
--email Ricky regarding website [Done]
--respond to Edward [Done]
--take the Torre assessment online []
--call dentist office [Done]
+-Grocery Shopping []
+-meal train for Ben and Maria @ 18:00 []
 -Notebooks photoshoot []
 -update notebooks design []
 -plan speaker design scheme []
@@ -25,7 +21,7 @@ Monday, September 11th:
 
 //Working
 
--Morning Uber drive [98/$100] 7 - 10 am
+-Morning Uber drive [93/$100] 7 - 10 am
 -update Portfolio other Projects logos for mobile []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
