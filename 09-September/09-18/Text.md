@@ -6,7 +6,7 @@ Monday, September 18th:
 -Jett's oil change []
 -Jetta's appraisal at 2 dealers []
 -Tennis with Jim []
--Zoom call with Vhal []
+-Zoom call with Vhal @ 16:00 [Done]
 -Follow up with Ricky []
 -update notebooks design []
 -plan speaker design scheme []
