@@ -2,8 +2,8 @@ Monday, September 18th:
 
 // Calendar
 
--inquire about the laundromat lockers []
--Jett's oil change []
+-inquire about the laundromat lockers [Done]
+-Jetta's oil change []
 -Jetta's appraisal at 2 dealers []
 -Tennis with Jim []
 -Zoom call with Vhal @ 16:00 [Done]
@@ -24,7 +24,7 @@ Monday, September 18th:
 
 //Working
 
--Morning Uber drive [96/$100] 7 - 10 am
+-Morning Uber drive [99/$100] 7 - 10 am
 -add TOP project to Portfolio Work Page []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
