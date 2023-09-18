@@ -25,14 +25,8 @@ Monday, September 18th:
 //Working
 
 -Morning Uber drive [96/$100] 7 - 10 am
--update Portfolio other Projects logos for mobile []
+-add TOP project to Portfolio Work Page []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
 -add photos to stock images [0/5]
 -Next.js Project and learning.
-
-// From before
-
--reach out to 2 people for informational interviews GA
--reach out to Anya?
--create and deploy a react app
