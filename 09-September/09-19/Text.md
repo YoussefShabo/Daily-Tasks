@@ -1,4 +1,4 @@
-Tuesday, September 19th:
+Monday, September 18th:
 
 // Calendar
 
