@@ -2,8 +2,8 @@ Tuesday, September 19th:
 
 // Calendar
 
--Follow up with Ali Makyia []
--Follow up with Cynthia Ramos []
+-Follow up with Ali Makyia [Done]
+-Follow up with Cynthia Ramos [Done]
 -Send email to the indian guy []
 -send LinkedIn msg to Riffat and Samir []
 -Capital Factory Tour [Done]
