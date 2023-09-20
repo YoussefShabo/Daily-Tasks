@@ -5,7 +5,7 @@ Tuesday, September 19th:
 -Follow up with Ali Makyia [Done]
 -Follow up with Cynthia Ramos [Done]
 -Send email to the indian guy []
--send LinkedIn msg to Riffat and Samir []
+-send LinkedIn msg to Riffat and Samir [SemiDone]
 -Capital Factory Tour [Done]
 -Fiesta @ Capital Factory with Leticia []
 -Apply for SEI-direct-job-rec opportunity[]
