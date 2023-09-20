@@ -3,57 +3,56 @@ PW: 6dN^dy$6)9O^TAr!
 SoFi video link: https://www.youtube.com/watch?v=YaeAYjpapX0
 SMCC - AR link: https://www.youtube.com/watch?v=xPV6kOadbvY
 
+-Method 1: - Styling with HTML, CSS with Media query as follows:
 
--Method 1:
-    - Styling with HTML, CSS with Media query as follows:
-    <style>
-    .video-container {
-        position: relative; 
-        width: 75%;
-    }
-    .video-container .aspect-ratio {
-        position: relative; 
-        padding-bottom: 56.25%;
-    } 
-    @media (max-width: 1300px) {
-    .video-container {
-        width: 100%;
-        }
-    }
-    </style>
-    <center>
-        <div class="video-container">
-            <div class="aspect-ratio">
-                <iframe 
+<style>
+.video-container {
+position: relative;
+width: 75%;
+}
+.video-container .aspect-ratio {
+position: relative;
+padding-bottom: 56.25%;
+}
+@media (max-width: 500px) {
+.video-container {
+width: 100%;
+}
+}
+</style>
+<center>
+    <div class="video-container">
+        <div class="aspect-ratio">
+            <iframe 
                 style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
                 src="https://www.youtube.com/embed/YaeAYjpapX0?si=ZLrV05x9QQJqNl0J" 
                 title="YouTube video player" 
                 frameborder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                 allowfullscreen>
-                </iframe>
-            </div>
+            </iframe>
         </div>
-    </center>
+    </div>
+</center>
 
-Pros: 
-    -Adjustable in regards to dimensions.
-    -Keeps the CM&D logo and video name visible on thumbnail.
-    -A little bit better visual quality.
+Pros:
+-Adjustable in regards to dimensions.
+-Keeps the CM&D logo and video name visible on thumbnail.
+-A little bit better visual quality.
 
 Cons:
-    -Longer code to repeat.
-    -Keeps the watch on YouTube and the red button are visible and take space on smaller screens
+-Longer code to repeat.
+-Keeps the watch on YouTube and the red button are visible and take space on smaller screens
 
 -Method 2:
-    -Install Simple YouTube Responsive plug-in, activate and add a short code embed on the page with the following format:
-    
+-Install Simple YouTube Responsive plug-in, activate and add a short code embed on the page with the following format:
+
     [youtube v=YaeAYjpapX0]
 
 Pros:
-    -One line of code.
-    -Hides information on the thumbnail.
+-One line of code.
+-Hides information on the thumbnail.
 
 Cons:
-    -Not adjustable (always 100vw)
-    -A little less visual quality.
+-Not adjustable (always 100vw)
+-A little less visual quality.
