@@ -2,12 +2,7 @@ Thursday, September 21st:
 
 // Calendar
 
--inquire about the laundromat lockers [Done]
--Jetta's oil change []
 -Jetta's appraisal at 2 dealers []
--Tennis with Jim []
--Zoom call with Vhal @ 16:00 [Done]
--Follow up with Ricky []
 -update notebooks design []
 -plan speaker design scheme []
 -add splash and icon to snake game []
