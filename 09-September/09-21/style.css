@@ -1,12 +1,37 @@
 body{
-    background-color: #40A6DE;
+    background-color: #ffffff;
 }
 
-.whiteCircle{
-    width: 300px;
-    height: 300px;
+.movingDiv{
+    position: absolute;
+    z-index: -1;
+    width: 500px;
+    height: 500px;
     border-radius: 400px;
-background-color:  #FFFEFC;
-    filter: blur(58px);
-    margin-top: 15%;
+    opacity: 0.7;
+    filter: blur(8px);
+    transition: left 7s ease, top 7s ease; /* Add transitions for left and top properties */
+}
+.Blue{
+    background-color:  #20729e;
+}
+.Yellow{
+    background-color:  #e2d625;
+}
+.Red{
+    background-color:  #cc1c1c;
+}
+.Green{
+    background-color:  #438140;
+}
+.Purple{
+    background-color:  #893bcd;
+}
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 128pt;
+    color: #ffffff;
+    position: fixed;
+    top: 25%;
+    left: 18%;
 }
