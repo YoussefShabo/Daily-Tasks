@@ -2,15 +2,13 @@ Friday, September 22nd:
 
 // Calendar
 
--inquire about the laundromat lockers [Done]
--Jetta's oil change []
--Jetta's appraisal at 2 dealers []
--Tennis with Jim []
--Zoom call with Vhal @ 16:00 [Done]
 -Follow up with Ricky []
--update notebooks design []
--plan speaker design scheme []
--add splash and icon to snake game []
+-Book Tennis Sessions for Monday []
+-Test run the CSC Laundry at Leticia's []
+
+- -update notebooks design []
+  -plan speaker design scheme []
+  -add splash and icon to snake game []
 
 //Learning
 
@@ -24,7 +22,7 @@ Friday, September 22nd:
 
 //Working
 
--Morning Uber drive [99/$100] 7 - 10 am
+-Morning Uber drive [69/$100] 7 - 10 am
 -add TOP project to Portfolio Work Page []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
