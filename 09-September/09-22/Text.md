@@ -2,13 +2,21 @@ Friday, September 22nd:
 
 // Calendar
 
--Follow up with Ricky []
+//Working
+
+-create the HOW TO file for Ricky []
+-Follow up with Ricky and send bill []
 -Book Tennis Sessions for Monday []
 -Test run the CSC Laundry at Leticia's []
-
-- -update notebooks design []
-  -plan speaker design scheme []
-  -add splash and icon to snake game []
+-Morning Uber drive [69/$100] 7 - 10 am
+-add TOP project to Portfolio Work Page []
+-Apply to 3 Jobs[0/3]
+-research freelance jobs
+-add photos to stock images [0/5]
+-Next.js Project and learning.
+-update notebooks design []
+-plan speaker design scheme []
+-add splash and icon to snake game []
 
 //Learning
 
@@ -19,12 +27,3 @@ Friday, September 22nd:
 -Leetcode problem []
 -Practice HackerRank []
 -Practice CodeWars []
-
-//Working
-
--Morning Uber drive [69/$100] 7 - 10 am
--add TOP project to Portfolio Work Page []
--Apply to 3 Jobs[0/3]
--research freelance jobs
--add photos to stock images [0/5]
--Next.js Project and learning.
