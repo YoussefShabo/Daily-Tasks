@@ -4,6 +4,7 @@ Friday, September 22nd:
 
 //Working
 
+-Check the Toll bill []
 -create the HOW TO file for Ricky []
 -Follow up with Ricky and send bill []
 -Book Tennis Sessions for Monday []

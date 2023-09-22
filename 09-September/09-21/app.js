@@ -15,4 +15,4 @@ movingDivs.forEach(moveRandomly);
 // Move the divs periodically (e.g., every 2 seconds)
 setInterval(() => {
   movingDivs.forEach(moveRandomly);
-}, 2000);
+}, 4000);
