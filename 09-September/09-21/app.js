@@ -1,3 +1,7 @@
+
+
+//-----------------Background Motion---------------------
+
 // Select all elements with the class "movingDiv"
 const movingDivs = document.querySelectorAll(".movingDiv");
 

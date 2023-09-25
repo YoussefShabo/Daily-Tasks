@@ -6,8 +6,8 @@ body{
 .movingDiv{
     position: absolute;
     z-index: -1;
-    width: 500px;
-    height: 500px;
+    width: 700px;
+    height: 700px;
     border-radius: 400px;
     opacity: 0.5;
     filter: blur(100px);
