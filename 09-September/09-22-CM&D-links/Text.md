@@ -4,11 +4,12 @@ Friday, September 22nd:
 
 //Working
 
--Check the Toll bill []
+-Check the Toll bill [Done]
 -create the HOW TO file for Ricky []
 -Follow up with Ricky and send bill []
 -Book Tennis Sessions for Monday []
 -Test run the CSC Laundry at Leticia's []
+-Research new lockers providers []
 -Morning Uber drive [69/$100] 7 - 10 am
 -add TOP project to Portfolio Work Page []
 -Apply to 3 Jobs[0/3]
