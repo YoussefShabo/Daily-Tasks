@@ -7,7 +7,7 @@ Tuesday, September 26th:
 //Working
 
 -Research new lockers providers []
--Morning Uber drive [110/$100] 7 - 10 am
+-Morning Uber drive [113/$100] 7 - 10 am
 -add TOP project to Portfolio Work Page []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
