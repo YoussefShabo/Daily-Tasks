@@ -6,6 +6,7 @@ Tuesday, September 26th:
 
 //Working
 
+-apply to IBM position []
 -Research new lockers providers []
 -Morning Uber drive [113/$100] 7 - 10 am
 -add TOP project to Portfolio Work Page []
