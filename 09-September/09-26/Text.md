@@ -2,15 +2,12 @@ Tuesday, September 26th:
 
 // Calendar
 
+-Dinner with Fatima, Jim and Mabel @ Lima Criolla []
+
 //Working
 
--Check the Toll bill [Done]
--create the HOW TO file for Ricky []
--Follow up with Ricky and send bill []
--Book Tennis Sessions for Monday []
--Test run the CSC Laundry at Leticia's []
 -Research new lockers providers []
--Morning Uber drive [69/$100] 7 - 10 am
+-Morning Uber drive [110/$100] 7 - 10 am
 -add TOP project to Portfolio Work Page []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
