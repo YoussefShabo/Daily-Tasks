@@ -2,13 +2,14 @@ Wednesday, September 27th:
 
 // Calendar
 
--Dinner with Fatima, Jim and Mabel @ Lima Criolla []
+- Meet up with Will [notDone]
+- apple iPad appt [notDone]
 
 //Working
 
--apply to IBM position [Done]
+-practice HackerRank for IBM test [inProcess]
 -Research new lockers providers []
--Morning Uber drive [113/$100] 7 - 10 am
+-Morning Uber drive [163/$100] 7 - 10 am
 -add TOP project to Portfolio Work Page []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
