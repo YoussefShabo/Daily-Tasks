@@ -1,9 +1,6 @@
-Wednesday, September 27th:
+Tuesday, October 3rd:
 
 // Calendar
-
-- Meet up with Will [notDone]
-- apple iPad appt [notDone]
 
 //Working
 
