@@ -2,7 +2,11 @@ Tuesday, October 10th:
 
 // Calendar
 
--TED Talko Tuesday @ Capital Factory
+-Plan meeting with Mahdi [Done]
+-Schedule meeting with Will at Mozart's [Done]
+-Reach out to Diego []
+-Reach out to Jim and schedule tennis time []
+-TED Talko Tuesday @ Capital Factory @ 18:00 []
 
 //Working
 
