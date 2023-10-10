@@ -6,9 +6,8 @@ Tuesday, October 10th:
 
 //Working
 
--practice HackerRank for IBM test [inProcess]
 -Research new lockers providers []
--Morning Uber drive [163/$100] 7 - 10 am
+-Morning Uber drive [75/$100] 7 - 10 am
 -add TOP project to Portfolio Work Page []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
