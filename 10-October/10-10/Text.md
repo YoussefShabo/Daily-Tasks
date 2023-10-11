@@ -4,9 +4,10 @@ Tuesday, October 10th:
 
 -Plan meeting with Mahdi [Done]
 -Schedule meeting with Will at Mozart's [Done]
+-Respond to Rachel on LinkedIn []
 -Reach out to Diego []
 -Reach out to Jim and schedule tennis time []
--TED Talko Tuesday @ Capital Factory @ 18:00 []
+-TED Talko Tuesday @ Capital Factory @ 18:00 [Done]
 
 //Working
 
