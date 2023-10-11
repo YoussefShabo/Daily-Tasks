@@ -2,12 +2,13 @@ Wednesday, October 11th:
 
 // Calendar
 
--Respond to Rachel on LinkedIn []
+-Respond to Rachel on LinkedIn [Done]
 -Reach out to Diego []
 -Reach out to Jim and schedule tennis time []
 
 //Working
 
+-add the covers of Notable to the weekly planners on Amazon KDP []
 -Research new lockers providers []
 -Morning Uber drive [86/$100] 7 - 10 am
 -add TOP project to Portfolio Work Page []
