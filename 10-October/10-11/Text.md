@@ -2,17 +2,14 @@ Wednesday, October 11th:
 
 // Calendar
 
--Plan meeting with Mahdi [Done]
--Schedule meeting with Will at Mozart's [Done]
 -Respond to Rachel on LinkedIn []
 -Reach out to Diego []
 -Reach out to Jim and schedule tennis time []
--TED Talko Tuesday @ Capital Factory @ 18:00 [Done]
 
 //Working
 
 -Research new lockers providers []
--Morning Uber drive [75/$100] 7 - 10 am
+-Morning Uber drive [86/$100] 7 - 10 am
 -add TOP project to Portfolio Work Page []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
