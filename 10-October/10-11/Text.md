@@ -2,8 +2,6 @@ Wednesday, October 11th:
 
 // Calendar
 
--Respond to Rachel on LinkedIn [Done]
--Reach out to Diego []
 -Reach out to Jim and schedule tennis time []
 
 //Working
