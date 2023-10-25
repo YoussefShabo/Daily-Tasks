@@ -1,14 +1,14 @@
-Sunday, October 22nd:
+Wednesday, October 25th:
 
 // Calendar
 
--Reach out to Jim and schedule tennis time []
+- Meet with Will Simpson @ Mozart 13:00 [Done]
 
 //Working
 
 -add the covers of Notable to the weekly planners on Amazon KDP []
 -Research new lockers providers []
--Morning Uber drive [97/$100] 7 - 12 am
+-Morning Uber drive [105/$100] 7 - 12 am
 -add TOP project to Portfolio Work Page []
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
