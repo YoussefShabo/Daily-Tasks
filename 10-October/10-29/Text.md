@@ -1,4 +1,4 @@
-Wednesday, October 25th:
+Sunday, October 29th:
 
 // Calendar
 
