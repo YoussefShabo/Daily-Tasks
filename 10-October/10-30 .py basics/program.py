@@ -126,6 +126,7 @@ if (num > 10) and (num < 100):
 # counter
 
 counter = 0
+
 while (counter < 10):
     print("The count is: %s" % counter)
     counter += 1
