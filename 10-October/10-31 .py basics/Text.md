@@ -1,11 +1,11 @@
-Monday, October 30th:
+Tuesday, October 31st:
 
 // Calendar
 
 //Working
 
 -Practice the basics of python [Done]
--Morning Uber drive [0/$100] 7 - 12 am
+-Morning Uber drive [113/$100] 7 - 12 am
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
 -add photos to stock images [0/5]
