@@ -2,7 +2,8 @@ Thursday, November 2nd:
 
 // Calendar
 
--Transfer Funds to Fidelity acc []
+-Transfer Funds to Fidelity acc [Done]
+-Log in new UFCU [Done]
 -Set up Daily trading acc/system []
 -Make $100 in day trading []
 -Research Laundromats around DT ad check for small family businesses []
