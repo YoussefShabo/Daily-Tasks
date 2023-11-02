@@ -2,11 +2,11 @@ Thursday, November 2nd:
 
 // Calendar
 
--Meet up with Rony and Hoang Nguyen @ Spin Cycle 17:30 []
 -Transfer Funds to Fidelity acc []
 -Set up Daily trading acc/system []
 -Make $100 in day trading []
 -Research Laundromats around DT ad check for small family businesses []
+-Meet up with Rony and Hoang Nguyen @ Spin Cycle 17:30 []
 
 //Working
 
