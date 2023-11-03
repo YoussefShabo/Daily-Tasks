@@ -8,7 +8,7 @@ Thursday, November 2nd:
 -Set up Daily trading acc/system []
 -Make $100 in day trading []
 -Research Laundromats around DT ad check for small family businesses []
--Meet up with Rony and Hoang Nguyen @ Spin Cycle 17:30 []
+-Meet up with Rony and Hoang Nguyen @ Spin Cycle 17:30 [Done]
 
 //Working
 
