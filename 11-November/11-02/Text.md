@@ -4,6 +4,7 @@ Thursday, November 2nd:
 
 -Transfer Funds to Fidelity acc [Done]
 -Log in new UFCU [Done]
+-Follow up with Eric Garcia [Done]
 -Set up Daily trading acc/system []
 -Make $100 in day trading []
 -Research Laundromats around DT ad check for small family businesses []
