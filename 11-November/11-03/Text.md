@@ -4,12 +4,10 @@ Friday, November 3rd:
 
 -Set up Daily trading acc/system []
 -Make $100 in day trading []
--Research Laundromats around DT ad check for small family businesses []
 
 //Working
 
--Morning Uber drive [90/$100] 7 - 12 am
--add TOP project to Portfolio Work Page []
+-Morning Uber drive [0/$100] 7 - 12 am
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
 -add photos to stock images [0/5]
