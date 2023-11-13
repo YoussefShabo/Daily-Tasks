@@ -1,19 +1,13 @@
-Thursday, November 2nd:
+Friday, November 3rd:
 
 // Calendar
 
--Transfer Funds to Fidelity acc [Done]
--Log in new UFCU [Done]
--Follow up with Eric Garcia [Done]
 -Set up Daily trading acc/system []
 -Make $100 in day trading []
--Research Laundromats around DT ad check for small family businesses []
--Meet up with Rony and Hoang Nguyen @ Spin Cycle 17:30 [Done]
 
 //Working
 
--Morning Uber drive [90/$100] 7 - 12 am
--add TOP project to Portfolio Work Page []
+-Morning Uber drive [0/$100] 7 - 12 am
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
 -add photos to stock images [0/5]
