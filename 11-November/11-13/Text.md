@@ -2,25 +2,14 @@ Monday, November 13th:
 
 // Calendar
 
--Transfer Funds to Fidelity acc [Done]
--Log in new UFCU [Done]
--Follow up with Eric Garcia [Done]
--Set up Daily trading acc/system []
--Make $100 in day trading []
--Research Laundromats around DT ad check for small family businesses []
--Meet up with Rony and Hoang Nguyen @ Spin Cycle 17:30 []
-
 //Working
 
--Morning Uber drive [90/$100] 7 - 12 am
--add TOP project to Portfolio Work Page []
+-Morning Uber drive [78/$100] 7 - 10 am
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
 -add photos to stock images [0/5]
--Next.js Project and learning.
+-C# Project and learning.
 -update notebooks design []
--plan speaker design scheme []
--add splash and icon to snake game []
 
 //Learning
 
