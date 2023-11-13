@@ -2,6 +2,8 @@ Monday, November 13th:
 
 // Calendar
 
+-Feed Jim's Cat [Done]
+
 //Working
 
 -Morning Uber drive [78/$100] 7 - 10 am
