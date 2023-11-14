@@ -3,6 +3,7 @@ Monday, November 13th:
 // Calendar
 
 -Feed Jim's Cat [Done]
+-Do the Upwork Certification for Javascript Front-end []
 
 //Working
 
