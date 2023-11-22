@@ -6,6 +6,7 @@ Tuesday, November 21st:
 -Meet with Jerrett @ 14:30 [Done]
 -Send Jerret a thank you email [Done]
 -Pack travel bag [Done]
+-Check in for your flight []
 
 //Working
 
