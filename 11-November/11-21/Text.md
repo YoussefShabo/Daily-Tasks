@@ -4,6 +4,8 @@ Tuesday, November 21st:
 
 -Pick up Leticia from Dentist @ 11:30 [Done]
 -Meet with Jerrett @ 14:30 [Done]
+-Send Jerret a thank you email [Done]
+-Pack travel bag [Done]
 
 //Working
 
