@@ -2,7 +2,8 @@ Tuesday, November 21st:
 
 // Calendar
 
--Pick up Leticia from Dentist [Done]
+-Pick up Leticia from Dentist @ 11:30 [Done]
+-Meet with Jerrett @ 14:30 [Done]
 
 //Working
 
