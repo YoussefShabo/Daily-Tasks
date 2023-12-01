@@ -1,6 +1,13 @@
-Friday, December 1st:
+Tuesday, November 21st:
 
 // Calendar
+
+-Pick up Leticia from Dentist @ 11:30 [Done]
+-Meet with Jerrett @ 14:30 [Done]
+-Send Jerret a thank you email [Done]
+-Pack travel bag [Done]
+-Apply to the Web Developer Position through Jobot [Done]
+-Check in for your flight []
 
 //Working
 
