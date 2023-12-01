@@ -8,7 +8,7 @@ Friday, December 1st:
 //Working
 
 - Morning Uber drive [0/$100] 7 - 10 am
-  -A pply to 3 Jobs[0/3]
+- A pply to 3 Jobs[0/3]
 - research freelance jobs
 - add photos to stock images [0/5]
 - C# Project and learning.
