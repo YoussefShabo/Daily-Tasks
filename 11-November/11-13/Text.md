@@ -2,7 +2,7 @@ Friday, December 1st:
 
 // Calendar
 
-- @nd Interview with Jerrett and the team @ 12:30 []
+- 2nd Interview with Jerrett and the team @ 12:30 []
 - Meeting with Priscilla regarding Business @ 14:00 []
 
 //Working
