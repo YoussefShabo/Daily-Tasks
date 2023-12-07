@@ -6,7 +6,7 @@ Thrsday, December 7th :
 
 //Working
 
--Morning Uber drive [0/$100] 7 - 10 am
+-Morning Uber drive [0/$100] 3 - 7 pm
 -Apply to 3 Jobs[0/3]
 -research freelance jobs
 -add photos to stock images [0/5]
