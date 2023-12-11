@@ -15,7 +15,6 @@ Thrsday, December 7th :
 
 //Learning
 
--Start a new Ruby Project []
 -Coding with Mosh continue with Python (Control Flow)
 -DSA Class progress
 -20 min read Cracking the Coding Interview []
